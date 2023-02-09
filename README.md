@@ -1,3 +1,5 @@
+# Sanbercode-Automation-API
+
 Repository ini digunakan untuk mengupload tugas-tugas yang diberikan oleh SanberCode sebagai bagian dari pelatihan QA Automation.
 
 Saat ini terdapat 4 file dan 1 subfolder yaitu:
